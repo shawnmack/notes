@@ -78,7 +78,8 @@ y = wx + b     y--->zed      z=h(y1)  y2=wz1+b2
                     
 y2 = wzsub1 + b
 
-each input will have a different w, and bias should be the same
+
+each input will have a different w, each row will have the same bias
 
 
 so a neural net does linear regression then adding an activation function, to turn the number into a value between 0-1
