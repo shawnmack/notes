@@ -1,0 +1,51 @@
+
+
+pd.isnull(df.column) #boolean mask getter of null rows
+
+
+#change column or index names
+reviews.rename(columns={'points': 'score'})
+reviews.rename(index={0: 'firstEntry', 1: 'secondEntry'})
+
+#how do you sort a basic list in python in reverse order
+
+shittylist.sort(reverse=True)
+
+#whats the deal with the axis argument in pandas
+
+#how do you rename columns in pandas
+
+df=df.rename(columns={'town':'Town','cty':'City'})
+
+#how do you name or rename the index column
+reindexed = reviews.rename_axis('wines',axis='rows')
+
+
+#types of activation functions commonly used
+'''
+sigmoid
+	outputs between 0-1 asymptotes to 1 as it goes to infinity and 0 as it goes to negative infinity
+regression
+	line of best fit linear line
+RELu
+	regression line that zeroes out giving you some non-linearity
+'''
+
+#decision trees are simple and more understandable by humans
+
+#a neural network consists of three parts
+
+#model
+#weights and the data
+#optimizer
+
+decision boundries
+
+#regressions vs classification
+#continous vs discrete target variable
+
+#feature data into target data variable?
+import matplotlib.pyplot as plt
+
+#Bunch = type of dict
+

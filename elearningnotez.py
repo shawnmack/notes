@@ -1,8 +1,6 @@
 
 '''
-kaggle
-    FREE
-    SEEMS PRETTY PROMINENT
+
 codeschool.com
     pluralsight 29-45
 datacamp
@@ -18,17 +16,22 @@ algoexpert
     80-100 1 year
     interview focused
     algorithms or machine learning track
-google crash course
-    free, google
-    -might be dated
-    ----videos
 Exercism.io
     free
     looks good
     ----CL Fetish
 
-Codewars
+
 ****
+kaggle
+    FREE
+    SEEMS PRETTY PROMINENT
+    
+google crash course
+    free, google
+    -might be dated
+    ----videos
+codewars
 coderbytes
     $35 a month, 150 a year
     -pretty small library
@@ -37,6 +40,8 @@ coderbytes
 *competitive
 CodeChef
 HackerRank
+
+
 ####SPECIFIC PYTHON
 Packages to learn (pandas, numpy,
 matplotlib,
@@ -49,6 +54,7 @@ Project Euler
     FREE
     math focused
     no browser coding
+    --Euler problems are copied in codewars
 khanacademy
     -(videos)
 
