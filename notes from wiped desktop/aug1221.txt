@@ -1,0 +1,12 @@
+from collections import Counter
+	addition data types for groups of data
+
+itertools functional tools for creating and using iterators
+	from itertools import combinations
+		creates combination object that is every possible combo
+
+set theory
+
+	.intersection exists in both
+	.difference set all items in first set that are not in the 2nd set 
+	.symmetric_difference all that exist in one set and not the other

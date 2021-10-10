@@ -1,0 +1,56 @@
+lake geneva and lake constance austrian lakes basically 
+
+whats the deal with xrange? python 2? any important things I should know about version differences
+
+is calling floor division, modulus, roots arithmetic proper? yes
+WHAT IS THE SCOPE OF THE WORD ARITHMETIC? you were totally wrong
+
+
+Philology is the study of language in oral and written historical sources; it is the intersection of textual criticism, literary criticism, history, and linguistics (with especially strong ties to etymology).Philology is more commonly defined as the study of literary texts as well as oral and written records, the establishment of their authenticity and their original form, and the determination of their meaning. A person who pursues this kind of study is known as a philologist.
+
+In older usage, especially British, philology is more general, covering comparative and historical linguistics.[4][5]
+
+Classical philology studies classical languages. Classical philology principally originated from the Library of Pergamum and the Library of Alexandria[6] around the fourth century BCE, continued by Greeks and Romans throughout the Roman/Byzantine Empire. It was eventually resumed by European scholars of the Renaissance, where it was soon joined by philologies of other European (Germanic, Celtic), Eurasian (Slavistics, etc.), Asian (Arabic, Persian, Sanskrit, Chinese, etc.), and African (Egyptian, Nubian, etc.) languages. Indo-European studies involves the comparative philology of all Indo-European languages.
+
+Philology, with its focus on historical development (diachronic analysis), is contrasted with linguistics due to Ferdinand de Saussure's insistence on the importance of synchronic analysis. The contrast continued with the emergence of structuralism and Chomskyan linguistics alongside its emphasis on syntax, although research in the field of historical linguistics is often characterized by reliance on philological materials and findings.
+
+WHAT IS A BIGHT
+
+IS There any logic to gulfs and seas and seas within seas and gulfs within seas and straits inside gulfs inside seas????? geography PLZ MAKE SENSE
+
+there was no constitutional provision to fill an intra-term vice-presidential vacancy until the Twenty-fifth Amendment in 1967.
+
+A function returns a value, but a procedure does not.
+
+A method is similar to a function, but is part of a class. The term method is used almost exclusively in object-oriented programming.
+ 
+A function is something that takes a bunch of inputs and returns one or more values. If the returned values are entirely determined by the inputs, and the function doesn't have any side effects (logging, perhaps, or causing state changes outside itself), then it's called a pure function.
+
+A procedure is a function that doesn't return a value. In particular, this means that a procedure can only cause side effects. (That might include mutating an input parameter!)
+
+A method is a function that closes over a set of variables, that is, a closure. It takes zero or more input parameters, has access to this set of variables, and returns zero or more values. In OO languages these methods are attached to objects or classes.
+
+In most mainstream OO languages, those closed-over variables are called the member fields, or instance variables, of an object. A method can be a pure function, an impure function or a procedure.
+
+The latter definition leads to the object = struct + closures correspondence.
+
+
+I'm going with a different answer here: practically speaking, there's really no difference, with the slight exception that "method" usually refers to a subroutine associated with an object in OO languages.
+
+The terms "procedure, function, subroutine, subprogram, and method" all really mean the same thing: a callable sub-program within a larger program. But it's difficult to come up with a definition that captures all variant usages of these terms, because they are not used consistently across programming languages or paradigms.
+
+You might say a function returns a value. Well, the following C function doesn't return a value:
+
+void f() { return; }
+...but I doubt you'd find anyone who would call it a procedure.
+
+Sure, in Pascal, procedures don't return values and functions return values, but that's merely a reflection of how Pascal was designed. In Fortran, a function returns a value, and a subroutine returns multiple values. Yet none of this really allows us to come up with a "universal" definition for these terms.
+
+In fact, the term "procedural programming" refers to a whole class of languages, including C, Fortran and Pascal, only one of which actually uses the term "procedure" to mean anything.
+
+So none of this is really consistent. The only exception is probably "method", which seems to be used almost entirely with OO languages, referring to a function that is associated with an object. Although, even this is not always consistent. C++, for example, usually uses the term "member function" rather than method, (even though the term "method" has crept into the C++ vernacular among programmers.)
+
+The point is, none of this is really consistent. It simply reflects the terminology employed by whatever languages are en vogue at the time.
+
+
+Modular programming is now widespread, and found in virtually all major languages developed since the 1990s. The relative importance of modules varies between languages, and in class-based object-oriented languages there is still overlap and confusion with classes as a unit of organization and encapsulation, but these are both well-established as distinct concepts.
